@@ -1,0 +1,11 @@
+.square {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+h2 {
+    color: aliceblue;
+    font-size: 18px;
+    text-align: center;
+    line-height: 40px;
+}
