@@ -3,7 +3,8 @@
     width: 200px;
     height: 200px;
 }
-h2 {
+p.txt {
+    display: none;
     color: aliceblue;
     font-size: 18px;
     text-align: center;
